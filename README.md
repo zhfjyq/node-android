@@ -1,5 +1,5 @@
 # node-android
-## USING nodejs develop android application
+* USING nodejs develop android application
 # SIMPLE IS BEST!!
 
 nodejs android libgdx
